@@ -3,6 +3,9 @@
 ## GERMAN
 **english below**
 
+### Vorbereitungen
+Um die Skripte auszuführen, wird Python benötigt. Auf Linux oder Mac kann dazu nach Installation von Python (`sudo apt install python3`) eine virtuelle Umgebung eingerichtet werden. Dazu im Terminal `python3 -m venv .venv`ausführen und im Anschluss `source .venv/bin/activate`. Nun sollte die virtuelle Umgebung geladen sein. Wichtig ist nun, dass wir alle benötigten Pakete installieren. Dazu einfach `pip install -r requirements.txt` ins Terminal eingeben. Damit sollten alle Pakete installiert werden und die Skripte können ausgeführt werden.
+
 ### Daten sammeln
 Die Daten wurden mit Hilfe von [Hochschulkompass](https://www.hochschulkompass.de/home.html) gesammelt. Durchgeführt von einer studentischen Hilfskraft.
 Eine Stichprobe der Dokumente hat ergeben, dass nicht alle Dokumente Modulhandbücher waren. Daher wurde mit Hilfe von NLP-Techniken eine weitere Eingrenzung vorgenommen:
@@ -55,6 +58,10 @@ Ausführung der Datei: `python 03_keyword_analysis.py ergebnis.csv -d keyword_de
 Ausführen der Datei: `python 04_create_heatmap.py keyword_detail.csv -o heatmap.png`
 
 ## ENGLISH
+
+### Preparations
+Python is required to run the scripts. On Linux or Mac, a virtual environment can be set up after installing Python (`sudo apt install python3`). To do this, run `python3 -m venv .venv` in the terminal and then `source .venv/bin/activate`. The virtual environment should now be loaded. It is now important that we install all the necessary packages. To do this, simply enter `pip install -r requirements.txt` in the terminal. This should install all packages and allow the scripts to be executed.
+
 
 ### Data Collection
 The data was collected using [Hochschulkompass](https://www.hochschulkompass.de/home.html), conducted by a student assistant.  
