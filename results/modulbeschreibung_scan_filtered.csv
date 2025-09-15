@@ -1,0 +1,16 @@
+filepath,status,reason,score,matched_groups,matched_group_count
+./PDF-files/Erneuerbare Energien/1445_02.08.2023 Nachhaltige Energietechnik und-systeme.pdf,scanned,,0.0,,0
+./PDF-files/Elektrotechnik/1378_27.07.2023 Elektrotechnik.pdf,skipped,kein extrahierbarer text,0.0,,0
+./PDF-files/Energietechnik/2145_20.09.2023 Dezentrale Energiesysteme und Energieeffizienz.pdf,scanned,,0.0,,0
+./PDF-files/Systems Engineering/1280_24.07.2023 Systems Engineering.pdf,skipped,kein extrahierbarer text,0.0,,0
+./.venv/lib/python3.12/site-packages/matplotlib/mpl-data/images/matplotlib.pdf,skipped,kein extrahierbarer text,0.0,,0
+./.venv/lib/python3.12/site-packages/matplotlib/mpl-data/images/subplots.pdf,skipped,kein extrahierbarer text,0.0,,0
+./.venv/lib/python3.12/site-packages/matplotlib/mpl-data/images/move.pdf,skipped,kein extrahierbarer text,0.0,,0
+./.venv/lib/python3.12/site-packages/matplotlib/mpl-data/images/help.pdf,skipped,kein extrahierbarer text,0.0,,0
+./.venv/lib/python3.12/site-packages/matplotlib/mpl-data/images/back.pdf,skipped,kein extrahierbarer text,0.0,,0
+./.venv/lib/python3.12/site-packages/matplotlib/mpl-data/images/home.pdf,skipped,kein extrahierbarer text,0.0,,0
+./.venv/lib/python3.12/site-packages/matplotlib/mpl-data/images/zoom_to_rect.pdf,skipped,kein extrahierbarer text,0.0,,0
+./.venv/lib/python3.12/site-packages/matplotlib/mpl-data/images/hand.pdf,skipped,kein extrahierbarer text,0.0,,0
+./.venv/lib/python3.12/site-packages/matplotlib/mpl-data/images/forward.pdf,skipped,kein extrahierbarer text,0.0,,0
+./.venv/lib/python3.12/site-packages/matplotlib/mpl-data/images/qt4_editor_options.pdf,skipped,kein extrahierbarer text,0.0,,0
+./.venv/lib/python3.12/site-packages/matplotlib/mpl-data/images/filesave.pdf,skipped,kein extrahierbarer text,0.0,,0
